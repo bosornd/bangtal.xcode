@@ -5,9 +5,9 @@
 ![프로젝트 생성하기](./Images/create_project1.png)
 
 2. 설치된 방탈 라이브러리를 사용하도록 포함합니다.
-  1) 방탈 라이브러리(libbangtal.dylib) 포함하기
+- 방탈 라이브러리(libbangtal.dylib) 포함하기
 ![라이브러리 포함하기](./Images/create_project2.png)
-  2) 헤더 파일 경로 추가하기
+- 헤더 파일 경로 추가하기
 ![헤더 파일 경로 추가하기](./Images/create_project3.png)
 
 3. 프로그램을 작성합니다. C/C++ 프로그램이므로 main.m을 main.cpp로 바꿔서 작성합니다.
